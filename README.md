@@ -7,7 +7,7 @@ A GET type route `/api/prices` has been created to be able to perform searches i
 ## Quick Start
 
 ```
-  git clone https://github.com/Kunry/technical_test_inditex.git
+  git clone https://github.com/Kunry/inditex_technical_test
   mvn clean install
   mvn spring-boot:run
 ```
